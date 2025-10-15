@@ -98,11 +98,6 @@
 
 # 🏨 Moscow Harmony Hotel - Информационная система
 
-![Project Status](https://img.shields.io/badge/Status-In%20Development-ff69b4)
-![Version](https://img.shields.io/badge/Version-1.0-blue)
-![Python](https://img.shields.io/badge/Python-3.8%2B-green)
-![Django](https://img.shields.io/badge/Django-4.2-success)
-
 ## 📋 Краткое описание проекта
 
 ### 👨‍💻 1.1. Ф.И.О. разработчиков
@@ -157,16 +152,4 @@
 - **Nginx**
 - **Redis**
 
-## 🚀 Быстрый старт
 
-```bash
-# Клонирование репозитория
-git clone https://github.com/your-username/moscow-harmony-hotel.git
-cd moscow-harmony-hotel
-
-# Установка зависимостей
-pip install -r requirements.txt
-npm install
-
-# Запуск сервера разработки
-python manage.py runserver
