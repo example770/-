@@ -339,13 +339,19 @@ graph TD
 - Отчетность : Разделение на налоговую и управленческую
 - Аналитика: Основа для принятия бизнес-решений
 
+# 2.5.  Модель в нотации BPMN (с комментариями).
+
+<img width="671" height="321" alt="image" src="https://github.com/user-attachments/assets/972fa76d-9d9a-4da8-a8c9-8bd39c674f54" />
 
 
+# 2.6.  Модели в нотации UML (три типа).
 
+## 2.6.1 Диаграмма классов
+<img width="502" height="1151" alt="диграмма класов drawio (1)" src="https://github.com/user-attachments/assets/93d04634-4b9b-4426-bf19-e560d3f66f16" />
 
+## 2.6.1 Диаграмма вариантов использования
 
-
-
+<img width="786" height="698" alt="Диграмма вариантов использования (1)" src="https://github.com/user-attachments/assets/dfbfc9f7-d945-4914-96be-ecf729bc8555" />
 
 
 
