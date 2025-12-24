@@ -353,6 +353,10 @@ graph TD
 
 <img width="786" height="698" alt="Диграмма вариантов использования (1)" src="https://github.com/user-attachments/assets/dfbfc9f7-d945-4914-96be-ecf729bc8555" />
 
+# 2.7.  ER ДИАГРАММА
+<img width="863" height="651" alt="image" src="https://github.com/user-attachments/assets/01438c34-cc06-4a46-afc9-5ce6d9a71faf" />
+
+
 
 
 
